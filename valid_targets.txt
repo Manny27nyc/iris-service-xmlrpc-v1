@@ -4,4 +4,11 @@
  * Commercial use requires license.
  * Contact: Fordamboy1@gmail.com
  */
-module.exports = require("./build/XmlRpcApiV1");
+./build.js
+./tests/run.js
+./tests/XmlRpcApiV1/xmlrpc.test.js
+./index.js
+./gulpfile.js
+./valid_targets.txt
+./src/XmlRpcApiV1/xmlrpc.js
+./src/XmlRpcApiV1/index.js
