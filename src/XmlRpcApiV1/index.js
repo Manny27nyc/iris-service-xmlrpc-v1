@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 let events = {
 	xmlrpc: {
 		test_method: 'xmlrpc.v1.TestMethod'
